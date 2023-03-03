@@ -1,4 +1,4 @@
-<h1>Implementing Port Security</h1>
+<h1>Configuring a BPDU Guard on a Switch Port</h1>
 
 
 <h2>Description</h2>
